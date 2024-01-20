@@ -1,5 +1,3 @@
-![image](https://github.com/harjasdt/LLM-ContentGenetator/assets/68768529/828ce4be-ac00-4620-9d9b-35a96e52c551)
-
 # How to Use -
 1- Clone this repository <br>
 ```bash
@@ -19,3 +17,5 @@ streamlit run main.py
 # Demo-
 
 [Video Demonstration](https://www.linkedin.com/in/harjaspreet-singh/)
+![image](https://github.com/harjasdt/LLM-ContentGenetator/assets/68768529/828ce4be-ac00-4620-9d9b-35a96e52c551)
+
