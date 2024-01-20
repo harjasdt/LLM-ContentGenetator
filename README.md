@@ -4,7 +4,7 @@
 git clone
 ```
 2- Get your Openai API key from [here](https://auth0.openai.com/u/signup/identifier?state=hKFo2SAzQ05SWXdtQnZ0QlVIaXFoNk8wbVZ1QldXSmNqb1BTaqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGJuZlZSUWRYenB1UFJLZGIzR01ReFRpN2VnZTMybEFRo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q)<br>
-3- Add your key in 'app.py' file on line numbder 10<br>
+3- Add your key in 'main.py' file on line numbder 10<br>
 4- Install all the required modlues in the requrements.txt file (you can create your virtualenv also)<br>
 ```bash
 pip install -r requirements.txt
