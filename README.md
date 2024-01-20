@@ -16,6 +16,7 @@ streamlit run main.py
 
 # Demo-
 
-[Video Demonstration](https://www.linkedin.com/in/harjaspreet-singh/)
-![image](https://www.linkedin.com/posts/harjaspreet-singh_streamlit-langchain-openai-activity-7154435538211508224-K_ny?utm_source=share&utm_medium=member_desktop)
+[Video Demonstration](https://www.linkedin.com/posts/harjaspreet-singh_streamlit-langchain-openai-activity-7154435538211508224-K_ny?utm_source=share&utm_medium=member_desktop)
 
+
+![Screenshot 2024-01-20 164342](https://github.com/harjasdt/LLM-ContentGenetator/assets/68768529/9e5a5af3-c370-414f-ad33-83d657d8620c)
